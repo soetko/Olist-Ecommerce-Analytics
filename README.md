@@ -74,6 +74,6 @@ The data heavily implies that Olist must renegotiate its third-party logistics (
 
 ## Technical Skills Demonstrated
 * **Database Administration (DBA):** Engineered a relational database from raw CSVs, handled `NULL` data anomalies, bypassed strict mode constraints for data cleansing, and established a star-schema architecture using Foreign Keys.
-* **Advanced SQL Querying:** Utilized Common Table Expressions (CTEs) for modular logic, `NTILE()` Window Functions for percentile ranking, and complex `LEFT JOIN` mechanics for cohort mapping.
+* **Advanced SQL Querying:** Utilized Common Table Expressions (CTEs) for modular logic, `NTILE()` Window Functions for percentile ranking, and complex `JOIN` mechanics for cohort mapping.
 * **Date & Time Manipulation:** Standardized timestamps using `DATE_FORMAT` and calculated precise supply chain lifecycles using `DATEDIFF` and `PERIOD_DIFF`.
 * **Business Logic Translation:** Applied conditional aggregation (`CASE WHEN` pivoting) to transform raw, transactional logs into executive-ready retention matrices and RFM segments.
