@@ -1,0 +1,6 @@
+customer_segment,total_customers,percentage_of_base,average_days_since_last_purchase,average_orders,average_spend
+Recent/Average Buyers,34586,37.05,137,1,160.36
+At Risk (Big Spenders),31702,33.96,438,1.03,167.21
+Regular/Other,23319,24.98,317,1.03,153.43
+Loyal Customers,3237,3.47,207,1.22,249.2
+Champions,513,0.55,95,2.19,371.77
